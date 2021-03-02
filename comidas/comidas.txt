@@ -1,0 +1,10 @@
+1  - Lasanha
+2  - Xis 
+3  - Sushi
+4  - Pizza
+5  - Temaki
+6  - Acaí
+7  - Pastel
+8  - Waffles
+9  - kibi
+10 - Cebola frita
