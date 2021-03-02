@@ -1,0 +1,2 @@
+Olá, Meu nome é Tales dos Santos Gomes, tenho 24 anos, gosto bastante de ver série, ler livros, desenhar, tocar música. Desde pequeno eu tive muito interesse em programação, mas não sabia, pois sempre tive bastante interesse em saber como desenvolver jogos.
+Até que um amigo me disse para ver como funciona Python, assisti uma aula do Gustavo Guanabara, ele me mostrou o mundo da programação e fiquei muito encantado.
