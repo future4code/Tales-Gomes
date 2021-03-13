@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+}
+
+#topmenu {
+    display:flex;
+    background-color: orange;
+    margin:0;
+}
+#topmenu li {
+    color: white;
+    text-decoration: none;
+    display: block; 
+    padding:15px;
+}
+#topmenu li:first-child {
+    margin-right: auto;
+}
+.parte1 {
+    display: flex;
+    height: 93vh;
+    background-color: #07f8ee;
+}
+.centralize {
+margin: auto;
+text-align: center;
+}
+
+.section2 {
+    display: flex;
+    background-color: white;
+    width: 33vh;
+}
+
+#quem-sou {
+    display: flex;
+    background-color: white;
+}
+
+th {
+    background-color: blueviolet;
+}
+ #projetos {
+     background-color: gold;
+ }
+
+ .footer {
+     display: flex;
+     background-color: white;
+     padding: 100px;
+ }
+
+.footer li {
+    text-decoration: none;
+    display:flex;
+    marker-mid: none;
+    margin-left: 80px;
+}
+
+button {
+    background-color: yellow;
+    padding: 8px;
+    border: 2px solid chocolate;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px rgba(0,0,0,0.19);
+}
+
+button:hover {
+    background-color: #07f8ee;
+    transition-duration: 0.4s;
+}
+
+#button1 {
+    background-color: none;
+    border-style: none;
+}
+img {
+    border: 0;
+}
